@@ -11,8 +11,8 @@ The tools necessary to successfully install are
  </ul>
 <h3>The steps required to install this project</h3>
 <ul>
-  <li>1. ssh useradm@192.168.56.20</li>
-  <li>2. cd </li>
+  <li value="1">ssh useradm@192.168.56.20</li>
+  <li value="2">cd  </li>
   <li></li>
   <li></li>
 </ul>
