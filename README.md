@@ -9,3 +9,10 @@ The tools necessary to successfully install are
   <li>Linux Desktop </li>
   <li>The file of JustBook Store Web Site</li>
  </ul>
+<h3>The steps required to install this project</h3>
+<ul>
+  <li>1. ssh useradm@192.168.56.20</li>
+  <li>2. cd </li>
+  <li></li>
+  <li></li>
+</ul>
