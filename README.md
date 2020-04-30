@@ -11,8 +11,8 @@ The tools necessary to successfully install are
  </ul>
 <h3>The steps required to install this project</h3>
 <ol>
-  <li value="1">ssh useradm@192.168.56.20</li>
-  <li value="2">cd  </li>
-  <li></li>
-  <li></li>
+  <li>ssh useradm@192.168.56.20</li>
+  <li>cd Just-Book-Store-WebSite</li>
+  <li>./ScriptPrincipale</li>
+  <li>Go the the Web browser 127.0.0.1:/JustBank/indexPage.php</li>
 </ol>
