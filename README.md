@@ -13,6 +13,7 @@ The tools necessary to successfully install are
 <ol>
   <li>ssh useradm@192.168.56.20</li>
   <li>cd Just-Book-Store-WebSite</li>
+  <li>chmod +x ScriptPrincipale.schodh</li>
   <li>./ScriptPrincipale</li>
   <li>Go the the Web browser 127.0.0.1:/JustBank/indexPage.php</li>
 </ol>
