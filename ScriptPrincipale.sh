@@ -1,6 +1,3 @@
-echo "The permission for the script file"
-chmod +x ScriptPrincipale.sh 
-
 echo "The installation of apache2,mysql,php and update system"
 sudo apt update
 sudo apt upgrade
