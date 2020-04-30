@@ -14,7 +14,7 @@ The tools necessary to successfully install are
   <li>ssh useradm@192.168.56.20</li>
   <li>git clone https://github.com/MedDali-Jaziri/Just-Book-Store-WebSite.git</li>
   <li>cd Just-Book-Store-WebSite</li>
-  <li>chmod +x ScriptPrincipale.schodh</li>
+  <li>chmod +x ScriptPrincipale.sh</li>
   <li>./ScriptPrincipale</li>
   <li>Go the the Web browser 127.0.0.1:/JustBank/indexPage.php</li>
 </ol>
