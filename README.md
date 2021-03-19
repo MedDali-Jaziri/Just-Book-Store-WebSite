@@ -1,6 +1,6 @@
 # Just-Book-Store-WebSite-All-in-One
 
-JustBook Web Site carried out by Mohamed Ali Jaziri this project was carried out by php this project you can run it on linux desktop or linux server and if you have a Windows we will do a tutorial to explain how to install this. For more information you must watch all the video decription for understand the demo for this WebSite in my channel Youtube https://www.youtube.com/watch?v=zAIcIyy6gPc.
+JustBook Web Site carried out by Mohamed Ali Jaziri this project was carried out by php this project you can run it on linux desktop or linux server and if you have a Windows we will do a tutorial to explain how to install this.
 
 <h3>How you can use this application</h3>
 The tools necessary to successfully install are
